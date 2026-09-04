@@ -4,7 +4,7 @@
 
 export const siteContent = {
   banner: {
-    image: 'home-banner.svg',
+    image: 'ef84df73c2ebf4068618a401ae3f0f1e.jpg',
     fit: 'cover',
     alt: 'Project Zero Code banner',
     title: 'Start from zero.',
