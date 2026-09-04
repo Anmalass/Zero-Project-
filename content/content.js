@@ -8,7 +8,7 @@ export const siteContent = {
     // Ganti dengan nama/path foto kamu.
     // Contoh: 'assets/banner/banner.jpg'
     // Bisa PNG, JPG, WEBP, atau SVG.
-    image: 'assets/banner/home-banner.svg',
+    image: 'assets/banner/ef84df73c2ebf4068618a401ae3f0f1e.jpg',
 
     // cover = foto memenuhi area banner (bisa terpotong sedikit)
     // contain = seluruh foto terlihat, tetapi bisa ada ruang kosong
